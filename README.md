@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 ![alt text](images/2screan.png)
 
-![alt text](images/3scren.png)
+![alt text](images/3screan.png)
 
 ![alt text](images/4scren.png)
 
