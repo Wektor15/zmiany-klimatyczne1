@@ -3,3 +3,5 @@ You can also read information about climate change, learn ways to help prevent i
 The project was created using HTML and CSS.
 Below are some photos and a video showing the website’s layout :)
 ______________________________________________________________________________________________________________________________________________________________________
+
+!(image-url)
