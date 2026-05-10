@@ -4,4 +4,12 @@ The project was created using HTML and CSS.
 Below are some photos and a video showing the website’s layout :)
 ______________________________________________________________________________________________________________________________________________________________________
 
-!(image-url)
+![alt text](images/1scren.png)
+
+![alt text](images/2scren.png)
+
+![alt text](images/3scren.png)
+
+![alt text](images/4scren.png)
+
+
