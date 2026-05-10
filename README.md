@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 ![alt text](images/1scren.png)
 
-![alt text](images/2scren.png)
+![alt text](images/2screan.png)
 
 ![alt text](images/3scren.png)
 
